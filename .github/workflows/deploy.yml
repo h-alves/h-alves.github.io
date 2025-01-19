@@ -1,0 +1,6 @@
+git init
+git add -A
+git commit -m "Inital Commit" 
+git branch -M main 
+git remote add origin https://github.com/h-alves/h-alves.github.io.git
+git push -u origin main
